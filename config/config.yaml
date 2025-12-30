@@ -1,0 +1,13 @@
+jwt:
+  secret: coupon
+  timeout:  3600
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  database: one_coupon
+  username: root
+  password: taocoupon
+redis:
+  addr:
+  password: taocoupon
+  db: taocoupon
