@@ -1,6 +1,8 @@
 jwt:
-  secret: coupon
-  timeout:  3600
+  signing-key: taocoupon
+  expires-time: 7d
+  buffer-time: 1d
+  issuer: taocoupon
 mysql:
   host: 127.0.0.1
   port: 3306
@@ -8,6 +10,6 @@ mysql:
   username: root
   password: taocoupon
 redis:
-  addr:
+  addr: 127.0.0.1:6379
   password: taocoupon
   db: taocoupon
