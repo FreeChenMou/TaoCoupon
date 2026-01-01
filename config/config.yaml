@@ -9,6 +9,7 @@ mysql:
   database: one_coupon
   username: root
   password: taocoupon
+  param: parseTime=True&loc=Local&timeout=10000ms
 redis:
   addr: 127.0.0.1:6379
   password: taocoupon

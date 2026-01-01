@@ -1,18 +1,21 @@
 package main
 
 import (
+	"TaoCoupon/app/server/router"
+	"TaoCoupon/common/database"
 	"TaoCoupon/config"
 	"github.com/gin-gonic/gin"
-	"net/http"
 )
 
 func main() {
 	config.InitConfig()
-	router := gin.Default()
-	router.GET("/ping", func(c *gin.Context) {
-		c.JSON(http.StatusOK, gin.H{
-			"message": "pong",
-		})
-	})
-	router.Run()
+
+	database.InitDB()
+	r := gin.Default()
+	api := r.Group("/api/admin")
+
+	router.InitCouponTemplateRouter(api)
+	router.InitCouponTaskRouter(api)
+
+	r.Run()
 }
