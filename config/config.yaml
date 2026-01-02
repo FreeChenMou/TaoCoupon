@@ -9,8 +9,16 @@ mysql:
   database: one_coupon
   username: root
   password: taocoupon
-  param: parseTime=True&loc=Local&timeout=10000ms
+  param: parseTime=True&loc=Local&timeout=3000ms
 redis:
   addr: 127.0.0.1:6379
   password: taocoupon
   db: taocoupon
+logs:
+  # 日志等级(-1:Debug, 0:Info, 1:Warn, 2:Error, 3:DPanic, 4:Panic, 5:Fatal, -1<=level<=5)
+  level: -1
+  path: logs
+  max-size: 50
+  max-backups: 100
+  max-age: 30
+  compress: false

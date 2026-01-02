@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02c036-ea51-475a-af9c-2c4867823e01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/server/apis/CouponTask.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/apis/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/router/CouponTask.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/router/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/service/CouponTask.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/service/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/apis/api.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/database/database.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/service/Service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/logger/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/logger.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/server/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service/Service.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/service/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/mysql.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>

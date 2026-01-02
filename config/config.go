@@ -8,9 +8,10 @@ import (
 )
 
 type Config struct {
-	Mysql *Mysql `mapstructure:"mysql" json:"mysql"`
-	Redis *Redis `mapstructure:"redis" json:"redis"`
-	JWT   *JWT   `mapstructure:"jwt" json:"jwt"`
+	Mysql *Mysql  `mapstructure:"mysql" json:"mysql"`
+	Redis *Redis  `mapstructure:"redis" json:"redis"`
+	JWT   *JWT    `mapstructure:"jwt" json:"jwt"`
+	Logs  *Logger `mapstructure:"logs" json:"logs"`
 }
 
 var Conf = new(Config)
@@ -37,5 +38,5 @@ func InitConfig() {
 	if err = viper.Unmarshal(Conf); err != nil {
 		panic(fmt.Errorf("初始化配置文件失败:%s", err))
 	}
-	fmt.Println(Conf.Mysql, Conf.Redis, Conf.JWT)
+	fmt.Println(Conf.Mysql, Conf.Redis, Conf.JWT, Conf.Logs)
 }
