@@ -1,1 +1,9 @@
 2026-01-03 00:11:24	INFO	logger/logger.go:79	TaoCoupon/common/logger.InitLogger	初始化zap日志完成! logs/info/2026-01-03.log
+2026-01-03 00:19:29	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-03.log
+2026-01-03 18:30:11	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-03.log
+2026-01-03 18:30:11	INFO	database/redis.go:17	TaoCoupon/common/database.InitRedis	redis init success
+2026-01-03 18:30:44	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-03.log
+2026-01-03 18:30:44	INFO	database/redis.go:17	TaoCoupon/common/database.InitRedis	redis init success: %vRedis<127.0.0.1:6379 db:0>
+2026-01-03 18:31:32	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-03.log
+2026-01-03 18:31:32	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+

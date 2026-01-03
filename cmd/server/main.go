@@ -12,6 +12,7 @@ func main() {
 	config.InitConfig()
 	logger.InitLogger()
 	database.InitDB()
+	database.InitRedis()
 	r := gin.Default()
 	api := r.Group("/api/admin")
 

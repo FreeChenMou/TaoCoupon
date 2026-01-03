@@ -49,6 +49,7 @@ func InitLogger() {
 		})
 	}
 
+	// info logs
 	infoFileWriteSyncer := zapcore.AddSync(&lumberjack.Logger{
 		Filename:   infoLogFileName,
 		MaxSize:    config.Conf.Logs.MaxSize,
@@ -60,6 +61,7 @@ func InitLogger() {
 
 	infoFileCore := zapcore.NewCore(encoder, zapcore.NewMultiWriteSyncer(infoFileWriteSyncer, zapcore.AddSync(os.Stdout)), lowPriority)
 
+	// error logs
 	errorFileWriteSyncer := zapcore.AddSync(&lumberjack.Logger{
 		Filename:   errorLogFileName,
 		MaxSize:    config.Conf.Logs.MaxSize,
@@ -76,5 +78,6 @@ func InitLogger() {
 
 	logger := zap.New(zapcore.NewTee(coreArr...), zap.AddCaller())
 	Logger = logger.Sugar()
-	Logger.Info("初始化zap日志完成! ", infoLogFileName)
+	Logger.Info("info logs init success ", infoLogFileName)
+	Logger.Error("error logs init success")
 }

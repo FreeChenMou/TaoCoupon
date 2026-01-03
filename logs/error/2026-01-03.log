@@ -1,0 +1,4 @@
+2026-01-03 00:19:29	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-03 18:30:11	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-03 18:30:44	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-03 18:31:32	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
