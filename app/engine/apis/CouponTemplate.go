@@ -9,6 +9,6 @@ type CouponTemplate struct {
 	apis.Api
 }
 
-func (a CouponTemplate) FindCouponTemplate(c gin.Context) {
+func (a CouponTemplate) FindCouponTemplate(c *gin.Context) {
 
 }

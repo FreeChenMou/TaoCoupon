@@ -5,30 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02c036-ea51-475a-af9c-2c4867823e01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/engine/apis/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/apis/CouponTemplateRemind.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/apis/UserCoupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/models/CouponSettlement.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/models/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/models/CouponTemplateRemind.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/models/UserCoupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/router/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/router/CouponTemplateRemind.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/router/UserCoupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/service/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/service/CouponTemplateRemind.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/engine/service/UserCoupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/database/redis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/consumer/apis/Coupon.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/consumer/models/CouponSettlement.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/consumer/models/CouponTemplate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/consumer/models/UserCoupon.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/consumer/router/Coupon.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/consumer/service/Coupon.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/distribution/apis/CouponTask.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/distribution/apis/CouponTemplate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/distribution/models/CouponTask.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/distribution/models/CouponTaskFail.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/distribution/models/CouponTemplate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/distribution/models/UserCoupon.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/distribution/service/CouponTask.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/distribution/service/CouponTemplate.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/server/models/CouponTemplate.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/CouponTemplate.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/engine/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/engine/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/server/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/logger/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/logger/logger.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/redis.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/info/2026-01-03.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/info/2026-01-03.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/engine/apis/CouponTemplate.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/engine/apis/CouponTemplate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/consumer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/consumer/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +59,7 @@
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "D:/TaoCoupon/app/engine/apis",
+    "last_opened_file_path": "D:/TaoCoupon/app/distribution/models",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
@@ -74,11 +67,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\TaoCoupon\app\engine\apis" />
-      <recent name="D:\TaoCoupon\app\engine\service" />
-      <recent name="D:\TaoCoupon\app\engine\router" />
-      <recent name="D:\TaoCoupon\app\engine\models" />
-      <recent name="D:\TaoCoupon\app\server\apis" />
+      <recent name="D:\TaoCoupon\app\distribution\models" />
+      <recent name="D:\TaoCoupon\app\distribution" />
+      <recent name="D:\TaoCoupon\app" />
+      <recent name="D:\TaoCoupon\app\consumer\service" />
+      <recent name="D:\TaoCoupon\app\consumer\router" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TaoCoupon\config" />
