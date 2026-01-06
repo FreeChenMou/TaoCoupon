@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02c036-ea51-475a-af9c-2c4867823e01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/consumer/apis/Coupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/consumer/models/CouponSettlement.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/consumer/models/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/consumer/models/UserCoupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/consumer/router/Coupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/consumer/service/Coupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/distribution/apis/CouponTask.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/distribution/apis/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/distribution/models/CouponTask.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/distribution/models/CouponTaskFail.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/distribution/models/CouponTemplate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/distribution/models/UserCoupon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/distribution/service/CouponTask.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/distribution/service/CouponTemplate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTaskCreateReq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTaskQueryReq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateAddReq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateInsertReq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateQueryReq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/response/CouponTaskPageQueryResp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/response/CouponTaskQueryResp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/response/CouponTemplatePageQueryResp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server/models/response/CouponTemplateQueryResp.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/engine/apis/CouponTemplate.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/engine/apis/CouponTemplate.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/consumer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/consumer/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +52,7 @@
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "D:/TaoCoupon/app/distribution/models",
+    "last_opened_file_path": "D:/TaoCoupon/app/server/models/response",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
@@ -67,11 +60,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TaoCoupon\app\server\models\response" />
+      <recent name="D:\TaoCoupon\app\server\models\request" />
       <recent name="D:\TaoCoupon\app\distribution\models" />
       <recent name="D:\TaoCoupon\app\distribution" />
       <recent name="D:\TaoCoupon\app" />
-      <recent name="D:\TaoCoupon\app\consumer\service" />
-      <recent name="D:\TaoCoupon\app\consumer\router" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TaoCoupon\config" />
