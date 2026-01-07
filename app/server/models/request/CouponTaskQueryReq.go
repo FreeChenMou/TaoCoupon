@@ -1,4 +1,4 @@
-package models
+package request
 
 type CouponTaskQueryReq struct {
 	BatchId          int    `json:"batch_id"`           //任务批次ID

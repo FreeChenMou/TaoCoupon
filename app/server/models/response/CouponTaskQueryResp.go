@@ -6,7 +6,7 @@ import (
 )
 
 type CouponTaskQueryResp struct {
-	Id               int       `json:"id"`
+	Id               int64     `json:"id"`
 	ShopNumber       int       `json:"shop_number"`        //店铺编号
 	BatchId          int       `json:"batch_id"`           //任务批次ID
 	TaskName         string    `json:"task_name"`          //优惠券批次任务名称

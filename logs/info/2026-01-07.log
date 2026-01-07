@@ -1,0 +1,57 @@
+2026-01-07 20:02:59	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 20:02:59	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 20:16:42	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 20:16:42	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 20:19:12	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 20:19:12	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 20:25:40	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 20:25:40	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 20:30:56	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 20:30:56	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 20:33:10	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 20:33:10	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 20:39:58	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 20:39:58	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 21:02:07	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 21:02:07	INFO	database/redis.go:18	TaoCoupon/common/database.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 21:08:16	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 21:08:16	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 21:39:58	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 21:39:58	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 21:54:19	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 21:54:19	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 21:54:33	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 21:54:33	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 22:09:46	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 22:09:46	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 22:20:42	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 22:20:42	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 22:27:43	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 22:27:43	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 22:28:09	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 22:28:09	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 22:34:03	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 22:34:03	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 22:36:02	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 22:36:02	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+
+2026-01-07 22:36:35	INFO	logger/logger.go:81	TaoCoupon/common/logger.InitLogger	info logs init success logs/info/2026-01-07.log
+2026-01-07 22:36:35	INFO	redis/redis.go:18	TaoCoupon/common/redis.InitRedis	redis init success: Redis<127.0.0.1:6379 db:0> 
+

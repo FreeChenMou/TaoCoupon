@@ -10,7 +10,7 @@ type CouponTask struct {
 }
 
 func (a CouponTask) CreateCouponTask(c *gin.Context) {
-
+	//var req request
 }
 
 func (a CouponTask) PageQueryCouponTask(c *gin.Context) {

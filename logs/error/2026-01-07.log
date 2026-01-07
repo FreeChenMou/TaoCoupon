@@ -1,0 +1,25 @@
+2026-01-07 20:02:59	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 20:16:42	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 20:18:45	ERROR	apis/CouponTemplate.go:21	TaoCoupon/app/server/apis.CouponTemplate.CreateCouponTemplate	request param fail
+2026-01-07 20:19:12	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 20:19:46	ERROR	apis/CouponTemplate.go:21	TaoCoupon/app/server/apis.CouponTemplate.CreateCouponTemplate	request param fail
+2026-01-07 20:20:36	ERROR	apis/CouponTemplate.go:21	TaoCoupon/app/server/apis.CouponTemplate.CreateCouponTemplate	request param fail
+2026-01-07 20:25:40	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 20:30:56	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 20:31:44	ERROR	apis/CouponTemplate.go:21	TaoCoupon/app/server/apis.CouponTemplate.CreateCouponTemplate	request param fail
+2026-01-07 20:33:10	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 20:33:15	ERROR	apis/CouponTemplate.go:21	TaoCoupon/app/server/apis.CouponTemplate.CreateCouponTemplate	request param fail
+2026-01-07 20:33:36	ERROR	apis/CouponTemplate.go:21	TaoCoupon/app/server/apis.CouponTemplate.CreateCouponTemplate	request param fail
+2026-01-07 20:39:58	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 21:02:07	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 21:08:16	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 21:39:58	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 21:54:19	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 21:54:33	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 22:09:46	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 22:20:42	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 22:27:43	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 22:28:09	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 22:34:03	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 22:36:02	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success
+2026-01-07 22:36:35	ERROR	logger/logger.go:82	TaoCoupon/common/logger.InitLogger	error logs init success

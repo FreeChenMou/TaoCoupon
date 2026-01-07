@@ -1,4 +1,4 @@
-package database
+package redis
 
 import (
 	"TaoCoupon/common/logger"

@@ -5,16 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02c036-ea51-475a-af9c-2c4867823e01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTaskCreateReq.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTaskQueryReq.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateAddReq.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateInsertReq.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateQueryReq.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/models/response/CouponTaskPageQueryResp.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/models/response/CouponTaskQueryResp.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/models/response/CouponTemplatePageQueryResp.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/server/models/response/CouponTemplateQueryResp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/page/PageReq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/snowflake/snowflake.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/consumer/models/CouponTemplate.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/consumer/models/CouponTemplate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/engine/models/CouponTemplate.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/engine/models/CouponTemplate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/common.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/apis/CouponTask.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/apis/CouponTask.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/apis/CouponTemplate.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/apis/CouponTemplate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/CouponTask.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/CouponTask.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/CouponTemplate.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/CouponTemplate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/request/CouponTaskCreateReq.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/request/CouponTaskCreateReq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/request/CouponTaskQueryReq.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/request/CouponTaskQueryReq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/request/CouponTemplateAddReq.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateAddReq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/request/CouponTemplateInsertReq.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateInsertReq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/request/CouponTemplateQueryReq.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/request/CouponTemplateQueryReq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/response/CouponTaskQueryResp.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/response/CouponTaskQueryResp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/response/CouponTemplatePageQueryResp.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/response/CouponTemplatePageQueryResp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/server/models/response/CouponTemplateQueryResp.go" beforeDir="false" afterPath="$PROJECT_DIR$/app/server/models/response/CouponTemplateQueryResp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/server/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/database/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/redis/redis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +79,7 @@
       <recent name="D:\TaoCoupon\app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TaoCoupon\common\redis" />
       <recent name="D:\TaoCoupon\config" />
       <recent name="D:\TaoCoupon" />
       <recent name="D:\TaoCoupon\cmd" />
